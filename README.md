@@ -1,6 +1,6 @@
 ***
 
-<h1 align="center"> Calculator </h1>
+<h1 align="center"> My Calculator </h1>
 
 ***
 
